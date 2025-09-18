@@ -1,0 +1,1 @@
+FROM goharbor/nginx-photon:v2.11.1
