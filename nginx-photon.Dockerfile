@@ -1,1 +1,1 @@
-FROM goharbor/nginx-photon:v2.11.1
+FROM goharbor/nginx-photon:v2.14.0
