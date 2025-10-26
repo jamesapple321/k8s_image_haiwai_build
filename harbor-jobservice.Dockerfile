@@ -1,1 +1,1 @@
-FROM goharbor/harbor-jobservice:v2.11.1
+FROM goharbor/harbor-jobservice:v2.14.0
