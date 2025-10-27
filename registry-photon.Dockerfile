@@ -1,1 +1,1 @@
-FROM goharbor/registry-photon:v2.14.0
+FROM goharbor/registry-photon:v2.4.2
