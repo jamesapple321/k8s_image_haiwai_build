@@ -1,1 +1,1 @@
-FROM  goharbor/harbor-exporter:v2.14.0
+FROM  goharbor/harbor-exporter:v2.4.2
