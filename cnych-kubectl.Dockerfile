@@ -1,0 +1,1 @@
+FROM cnych/kubectl:latest
