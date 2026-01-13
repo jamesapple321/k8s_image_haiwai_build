@@ -1,1 +1,1 @@
-FROM goharbor/harbor-core:v2.4.2
+FROM goharbor/harbor-core:v2.14.1
