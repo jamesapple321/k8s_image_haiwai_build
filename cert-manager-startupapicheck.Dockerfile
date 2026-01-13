@@ -1,0 +1,1 @@
+FROM quay.io/jetstack/cert-manager-startupapicheck:v1.18.2
