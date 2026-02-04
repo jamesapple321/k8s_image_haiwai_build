@@ -1,0 +1,1 @@
+FROM public.ecr.aws/docker/library/redis:8.2.3-alpine
